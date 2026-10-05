@@ -11,4 +11,11 @@ __pycache__/
 .DS_Store?
 ._*
 .Spotlight-V100
-.Trashes
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Editor directories
+.vscode/
